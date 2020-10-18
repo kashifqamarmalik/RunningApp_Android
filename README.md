@@ -1,5 +1,8 @@
 # Running App 
 
+Please clone or download the compressed folder in order to run the application in your machine. You will need Android Studio IDE to run the application on emulater/Android device.  
+
+
 Technologies used in the project:
 
 1. MVVM Architecture
@@ -12,4 +15,6 @@ Technologies used in the project:
 8. GPS
 9. Google Maps API
 10. Observer Pattern 
+11. Matierial Design 
+12. 
 
