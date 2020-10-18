@@ -1,4 +1,4 @@
-# Running_Sesnor_Android
+# Running App 
 
 Technologies used in the project:
 
