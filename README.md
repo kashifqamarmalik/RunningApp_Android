@@ -16,5 +16,5 @@ Technologies used in the project:
 9. Google Maps API
 10. Observer Pattern 
 11. Matierial Design 
-12. 
+12. Background Notifications 
 
